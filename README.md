@@ -1,6 +1,7 @@
 # KEDY
 
-Resources for our WSDM 2022 paper: "[Diversified Query Generation Guided by Knowledge Graph]
+- Resources for our WSDM 2022 paper: "[Diversified Query Generation Guided by Knowledge Graph]"
+- Paper link: https://dl.acm.org/doi/abs/10.1145/3488560.3498431
 
 ## Dependencies
 
