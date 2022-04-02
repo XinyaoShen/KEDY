@@ -23,4 +23,4 @@
 
 - Use `my_feature_extractor.py` and `ccig.py` to build graph.
 - We can do train and inference with `train.py`.
-- For evaluation, Use multi-bleu.perl
+- For evaluation, Use multi-bleu.perl.
